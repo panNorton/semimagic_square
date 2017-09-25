@@ -1,2 +1,2 @@
 # semimagic_square
-Method of random semimagic squares generation
+Method of generating random semimagic squares in Python.
